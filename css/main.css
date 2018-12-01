@@ -244,8 +244,12 @@ textarea {
 	color: #fff;
 }
 .mymap{}
-
-
+#map {
+      width: 400px;
+      height: 400px;
+}
+.footersection{background:#333; color:#fff; padding:20px 0;}
+.footersection p{font-size:30px;}
 
 
 
