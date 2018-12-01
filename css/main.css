@@ -248,8 +248,30 @@ textarea {
       width: 400px;
       height: 400px;
 }
-.footersection{background:#333; color:#fff; padding:20px 0;}
-.footersection p{font-size:30px;}
+.footersection {
+	background: #333;
+	color: #fff;
+	padding: 5px 0;
+}
+.footersection p {
+	font-size: 24px;
+	padding-top: 5px;
+}
+#scrollToUp {
+	background: #51B105;
+	height: 58px;
+	width: 60px;
+	text-align: center;
+	position: fixed;
+	bottom: 1px;
+	right: 0px;
+	cursor: pointer;
+}
+#scrollToUp i {
+	font-size: 50px;
+	color: #fff;
+	padding-top: 5px;
+}
 
 
 
